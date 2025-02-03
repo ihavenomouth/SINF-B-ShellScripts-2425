@@ -1,0 +1,3 @@
+Este es un fichero de prueba.
+Pero aún así es importante.
+No debería borrarse a la ligera
