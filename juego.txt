@@ -1,0 +1,7 @@
+1;Javier;23
+2;Carlos;87
+3;Ana;96
+4;Pedro;12
+5;Paco;123
+6;Sara;24
+7;Mar;231

@@ -1,0 +1,4 @@
+conectados.txt
+datos.txt
+juego.txt
+p.txt
