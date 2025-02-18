@@ -4,7 +4,7 @@
 edad=43
 nombre="Javier Mancera"
 
-# Recuperamos el valor de las varaibles con el $
+# Recuperamos el valor de las variables con el $
 echo "Hola $nombre, tienes $edad años"
 
 echo -n "Introduce tu color preferido: "
