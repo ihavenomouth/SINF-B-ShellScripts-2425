@@ -42,11 +42,11 @@
 # Los bucles while se ejecutan mientras la condición sea cierta
 # Hay que tener cuidado con los bucles infinitos
 
-i=1
-while [ $i -le 20 ];do
-  echo "$i"
-  i=$(( $i + 1 ))
-done
+# i=1
+# while [ $i -le 20 ];do
+#   echo "$i"
+#   i=$(( $i + 1 ))
+# done
 
 
 # for j in $( seq 1 3 );do
@@ -77,9 +77,12 @@ done
 #   if [ "$encontrada" == "si" ];then
 #     echo -n "$palabra "
 #   else
-#     echo -n "·$palabra·  "
+#     echo -n "·$palabra· "
 #   fi
 # done
+
+
+
 
 total=0
 

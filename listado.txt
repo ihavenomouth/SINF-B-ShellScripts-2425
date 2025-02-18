@@ -1,4 +1,35 @@
-conectados.txt
-datos.txt
-juego.txt
-p.txt
+-rwxrw-r-- 1 javier javier  447 feb 11 20:45 condicionales.sh
+-rw-rw-r-- 1 javier javier  166 feb 10 20:13 conectados.txt
+-rw-rw-r-- 1 javier javier    0 feb 11 21:25 datos.txt
+-rw-rw-r-- 1 javier javier   42 feb 18 18:58 dicc.txt
+-rwxrw-r-- 1 javier javier  722 feb 11 21:42 ej11.sh
+-rwxrw-r-- 1 javier javier 1497 feb 11 21:53 ej12.sh
+-rwxrw-r-- 1 javier javier 1472 feb 11 22:08 ej14.sh
+-rwxrw-r-- 1 javier javier 1032 feb  3 11:16 ej3.sh
+-rwxrw-r-- 1 javier javier 2496 feb  3 20:17 ej4.sh
+-rwxrw-r-- 1 javier javier  980 feb  5 21:22 ej5.sh
+-rwxrw-r-- 1 javier javier  833 feb  5 21:47 ej6.sh
+-rwxrw-r-- 1 javier javier  858 feb 11 20:35 ej7.sh
+-rwxrw-r-- 1 javier javier  621 feb 11 21:25 ej9.sh
+-rw-rw-r-- 1 javier javier   36 feb 11 21:24 error.txt
+-rw-rw-r-- 1 javier javier   73 feb  5 21:23 ficheropersonal.info
+drwxrwxr-x 8 javier javier 4096 feb 18 20:22 .git
+-rw-rw-r-- 1 javier javier   74 feb 10 19:32 juego.txt
+-rw-rw-r-- 1 javier javier    0 feb 18 20:40 listado.txt
+-rw-rw-r-- 1 javier javier   29 feb 11 20:35 numaleat
+drwxrwxr-x 4 javier javier 4096 feb  5 21:52 pruebas
+-rw-rw-r-- 1 javier javier   14 feb 11 21:19 p.txt
+-rw-rw-r-- 1 javier javier  409 feb  3 11:29 README.md
+-rwxrw-r-- 1 javier javier  694 feb  3 11:16 saludo.sh
+-rwxrw-r-- 1 javier javier  686 feb  3 11:16 teoria1-CrearScripts.sh
+-rwxrw-r-- 1 javier javier 1236 feb  3 19:46 teoria2-Redirecciones.sh
+-rwxrw-r-- 1 javier javier 1560 feb  5 21:08 teoria3-VblesEntorno.sh
+-rwxrw-r-- 1 javier javier 1302 feb  5 21:43 teoria4-ParamEntrada.sh
+-rwxrw-r-- 1 javier javier 4781 feb  6 21:25 teoria5-tuberias.sh
+-rwxrw-r-- 1 javier javier 1054 feb 17 19:30 teoria6-variables.sh
+-rwxrw-r-- 1 javier javier 1661 feb 18 20:39 teoria7-bucles.sh
+-rwxrw-r-- 1 javier javier 3463 feb 18 20:08 teoria8-funciones.sh
+-rw-rw-r-- 1 javier javier   56 feb 18 18:54 texto.txt
+-rw-rw-r-- 1 javier javier    0 feb 11 21:14 vacio
+-rwxrw-r-- 1 javier javier  677 feb 17 19:50 variables.sh
+drwxrwxr-x 2 javier javier 4096 feb 17 20:11 zip
